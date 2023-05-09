@@ -1,0 +1,10 @@
+﻿  Cliente.cpp
+  ConexionBD.cpp
+  Persona.cpp
+  mysql_c.cpp
+  Generating code
+  0 of 166 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  mysql_c.vcxproj -> C:\Users\josec\OneDrive\Documentos\mysql_c\x64\Release\mysql_c.exe
